@@ -1,5 +1,8 @@
 # @ascnd-gg/client
 
+> [!WARNING]
+> This project is under active development. Expect bugs. Please report issues via the [issue tracker](../../issues).
+
 TypeScript/JavaScript client library for the [Ascnd](https://ascnd.gg) leaderboard API. Uses gRPC-Web for efficient, type-safe communication.
 
 ## Installation
